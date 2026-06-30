@@ -15,6 +15,8 @@ knitr::opts_chunk$set(
 
 # ch.fso.besta.vacancies
 
+[![dataset](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/opentsi/ch.fso.besta.vacancies/master/data-raw/shield.json)](https://github.com/opentsi/ch.fso.besta.vacancies/actions/workflows/update_data.yaml)
+
 The ch.fso.besta.vacancies package provides versioned time series data
 and their meta information for scientific research.
 In addition, the package contains the
